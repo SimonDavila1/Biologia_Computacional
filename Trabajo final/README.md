@@ -1,4 +1,4 @@
-# Análisis de Datos de GRKs, D2r y Actividad Locomotora
+# Análisis de Datos de GRKs, D2R y Actividad Locomotora
 
 Este proyecto analiza datos experimentales de proteínas (GRK2, GRK5 y D2R) en diferentes fracciones (citosólica y sináptica) y actividades (HR y LR). Utiliza herramientas estadísticas para evaluar normalidad, realizar comparaciones y generar gráficos visuales que resumen los resultados.
 
